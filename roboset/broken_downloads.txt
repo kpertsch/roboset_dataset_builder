@@ -1,0 +1,10 @@
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/stow_bowl/stow_bowl_slide_open_drawer_scene_3.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/serve_soup/serve_soup_slide_out_sowl_scene_2.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/serve_soup/serve_soup_flap_open_oven_Scene_2.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/make_tea/make_tea_Uncap_Lid_Scene_2.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/heat_soup/heat_soup_flap_open_oven_Scene_4.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/heat_soup/heat_soup_flap_open_oven_Scene_2.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/clean_kitchen/clean_kitchen_Wipe_Counter_Scene_3.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/clean_kitchen/clean_kitchen_flap_close_oven_Scene_3.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/clean_kitchen/clean_kitchen_cap_lid_scene_3.tar.gz
+http://dl.fbaipublicfiles.com/RoboSet/TeleoperationSet/Activities/clean_kitchen/clean_kitchen_pick_lid_scene_3.tar.gz
